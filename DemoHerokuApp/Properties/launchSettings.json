@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DemoHerokuApp.Demo": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
